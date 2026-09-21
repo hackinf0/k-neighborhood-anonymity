@@ -1,0 +1,7 @@
+graph_type,k,runs,mean_edge_increase_pct,std_edge_increase_pct,mean_avg_ncp,std_avg_ncp,mean_query_error_pct,std_query_error_pct,mean_query_coverage_pct,mean_runtime_sec,std_runtime_sec
+gnm,2,5,97.600,1.346,0.046,0.005,22.298,1.295,95.200,0.104,0.002
+gnm,3,5,196.133,2.181,0.090,0.015,29.812,0.755,95.200,0.172,0.006
+gnm,5,5,378.444,5.306,0.183,0.013,33.809,0.571,96.000,0.285,0.003
+barabasi_albert,2,5,92.301,1.966,0.112,0.016,20.261,0.594,100.000,0.106,0.001
+barabasi_albert,3,5,178.586,0.999,0.219,0.021,21.368,0.719,100.000,0.181,0.003
+barabasi_albert,5,5,339.731,4.705,0.377,0.033,21.485,0.750,100.000,0.309,0.005
